@@ -1,0 +1,29 @@
+{
+  "name": "facter",
+  "version": "0.1.0",
+  "description": "A wrapper for puppet `facter` tool.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huandu/node-facter.git"
+  },
+  "keywords": [
+    "puppet",
+    "facter",
+    "utility",
+    "shell"
+  ],
+  "author": {
+    "name": "Huan Du",
+    "email": "npm@huandu.me"
+  },
+  "readmeFilename": "README.md",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huandu/node-facter/issues"
+  },
+  "homepage": "https://github.com/huandu/node-facter",
+  "dependencies": {
+    "debug": "^2.1.3"
+  }
+}
