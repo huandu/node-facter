@@ -19,6 +19,12 @@ facter.query(["ipaddress", "fqdn"], function(err, facts) {
 });
 ```
 
+## Install ##
+
+Install this module through `npm`.
+
+    npm install --save facter
+
 ## License ##
 
 This module is licensed under the MIT license that can be found in the LICENSE file.
