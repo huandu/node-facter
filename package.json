@@ -1,6 +1,6 @@
 {
   "name": "facter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A wrapper for puppet `facter` tool.",
   "main": "index.js",
   "repository": {
